@@ -67,7 +67,7 @@ We will use Parcel for the local depelopment. Follow [the link](https://parceljs
   - GALLERY
     - images: multi IMAGE
   - ACTION_BUTTON
-    - label: input, type=text
+    - name: input, type=text
     - url: input, type=url
 </details>
 
