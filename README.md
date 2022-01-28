@@ -69,6 +69,11 @@ We will use Parcel for the local depelopment. Follow [the link](https://parceljs
   - ACTION_BUTTON
     - name: input, type=text
     - url: input, type=url
+
+- Fields
+  - `property` - має бути використаний як ім'я інпуту (атрибут name)
+  - `label` - має бути використаний як плейсхолдер/тайтл для інпуту
+  - `type` - вказує який тип інпуту має бути використаний
 </details>
 
 
