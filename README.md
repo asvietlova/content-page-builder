@@ -1,10 +1,6 @@
-# HW5
-Homework HW5 consists of the one task.
 Topics : JS, Classes, OOP, Modules, HTML5, CSS3.
 
-
-## Getting started
-We will use Parcel for the local depelopment. Follow [the link](https://parceljs.org/getting-started/webapp/) for getting more details
+Use Parcel for the local depelopment. Follow [the link](https://parceljs.org/getting-started/webapp/) for getting more details
 
 0. Make sure you've installed nodeJS on your system
 1. run command `npm install`
